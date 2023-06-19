@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    margin-top: 200px;
+    background-color: rgb(3, 105, 160);
+  }
+
+.bottone{
+    margin-top: 25px;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;    
+}
+
+.bottone:hover{
+    background-color: #474b4d;
+    cursor: pointer;
+}
+
+#posgeo{
+    border-radius: 20px;
+    text-align: center;
+    height: 25px;
+}
+
+#poslav{
+    border-radius: 20px;
+    text-align: center;
+    height: 25px;
+}
+
+.titolo{
+    color: #607d8b;
+}
+
